@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab Demonstration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab Demonstration](https://github.com/Akshay8550/ActiveDirectoryLab)
 - <b>Vulnerability Management</b>
-  - [Vulnerability Management using NESSUS](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Vulnerability Management using NESSUS](https://github.com/Akshay8550/ActiveDirectoryLab)
 
 <!-- <h2>📺 Popular YouTube Videos</h2> -->
 
