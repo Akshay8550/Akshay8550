@@ -7,7 +7,6 @@
 - <b>Vulnerability Management</b>
   - [Vulnerability Management using NESSUS](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
-
 <!-- <h2>📺 Popular YouTube Videos</h2> -->
 
 ## 🌱 I’m currently learning ...
