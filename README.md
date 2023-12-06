@@ -9,13 +9,14 @@
 
 <!-- <h2>📺 Popular YouTube Videos</h2> -->
 
-## 🌱 I’m currently learning ...
+## 🌱 I’m currently learning...
   - **Setup SIEM in Azure.**
   - **Vulnerability Management | Qualys VMDR.**
   - **Create File integrity Monitor.**  
   - **Building a Simple REST API.**
 
-
+<h2> 🏄🏻 Hobby:</h2>
+   <b>Chess, Photography, MMA</b>
 
 <h2> 🤳 Connect with me:</h2>
 
