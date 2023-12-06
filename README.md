@@ -29,7 +29,7 @@
 <!-- [youtube]: https://www.youtube.com/c/joshmadakor -->
 <!-- [instagram]: https://www.instagram.com/joshmadakor/ -->
 [linkedin]: https://www.linkedin.com/in/akshayparulekar/
-[e-mail]: akshayparulekar96@gmail.com
+[e-mail]: mailto:akshayparulekar96@gmail.com
 
 <!--
 Here are some ideas to get you started:
