@@ -10,10 +10,10 @@
 <!-- <h2>📺 Popular YouTube Videos</h2> -->
 
 ## 🌱 I’m currently learning ...
-  - **Setup SIEM in Azure.** 
+  - **Setup SIEM in Azure.**
+  - **Vulnerability Management | Qualys VMDR.**
   - **Create File integrity Monitor.**  
   - **Building a Simple REST API.**
-  - **Setup Vulnerability Management Lab.**
 
 
 
