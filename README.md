@@ -19,7 +19,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://i.imgur.com/Dx482KK.png" />][linkedin]
+[<img align="left" alt="AkshayParulekar | LinkedIn" width="22px" src="https://i.imgur.com/Dx482KK.png" />][linkedin]
+[<img align="left" alt="AkshayParulekar | LinkedIn" width="22px" src="https://i.imgur.com/uZVLogK.png" />][e-mail]
 <!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
 <!--[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
 <!--[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
@@ -28,6 +29,7 @@
 <!-- [youtube]: https://www.youtube.com/c/joshmadakor -->
 <!-- [instagram]: https://www.instagram.com/joshmadakor/ -->
 [linkedin]: https://www.linkedin.com/in/akshayparulekar/
+[e-mail]: akshayparulekar96@gmail.com
 
 <!--
 Here are some ideas to get you started:
