@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab</b>
   - [Active Directory Home Lab Demonstration](https://github.com/MrACP/ActiveDirectoryLab)
 - <b>Vulnerability Management</b>
-  - [Vulnerability Management using NESSUS](https://github.com/MrACP/ActiveDirectoryLab)
+  - [Vulnerability Management using NESSUS](https://github.com/MrACP/NessusVulnerabilityManagement)
 
 <!-- <h2>📺 Popular YouTube Videos</h2> -->
 
