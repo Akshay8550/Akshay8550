@@ -1,13 +1,11 @@
-<h1>Hi, I'm Akshay! <br/><a href="https://www.linkedin.com/in/akshayparulekar/">Cybersecurity Practitioner</a>
+<h1>Hi, I'm Akshay! <br/><a href="https://www.linkedin.com/in/akshayparulekar/">Cybersecurity | Web Development | Data Analytics Practitioner</a>
 
 <h2>💫 About Me:</h2>
-💻 Cybersecurity enthusiast.<br>
+💻 Cybersecurity, Web Development & Data Analytics enthusiast.<br>
 🔭 Working on Vulnerability Management.<br>
 📊 Open to collaboration in Data Analytics.<br>
 🛡️ Seeking support in Cybersecurity.<br>
 ♘   Ask me about Chess.
-💻 Cybersecurity enthusiast.
-
 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
@@ -21,8 +19,9 @@
 ## 🌱 I’m currently learning...
   - **Setup SIEM in Azure.**
   - **Vulnerability Management | Qualys VMDR.**
-  - **Create File integrity Monitor.**  
+  - **Create File Integrity Monitor.**  
   - **Building a Simple REST API.**
+  - **HTML, CSS, JavaScript, WordPress.**
 
 
 <!--## 🌐 Socials:
